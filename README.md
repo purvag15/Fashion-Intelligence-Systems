@@ -4,5 +4,5 @@ It is a machine learning project which aims to ease out the work of fashion desi
 The csv file to_be_predicted contains the features of the product input by a fashion designer to predict its trendiness.
 The csv file shein_data_webtool and flipkart_kids_data are example files of how data is scraped from the e-commerce websites.
 
-Programming language used : Python
-Platform Used - Jupyter Notebook
+Programming language used : Python.
+Platform Used - Jupyter Notebook.
